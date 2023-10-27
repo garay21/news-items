@@ -5,3 +5,8 @@ main {
     align-items: center;
 }
 
+form {
+    display: flex;
+    gap: 1rem;    
+}
+
